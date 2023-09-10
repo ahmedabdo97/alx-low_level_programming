@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 /*
- * Main - Entry Point
- * A C program that Prints with Puts Func.
- * Return Must be 0
+ *  Main - Entry Point
+ *  Description: A C program that Prints with Puts Func.
+ *  Return: Must be 0
  */
 
 int main(void)
