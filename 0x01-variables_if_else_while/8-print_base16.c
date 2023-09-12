@@ -20,7 +20,7 @@ int main(void)
 			digit += 39;
 		digit++;
 	}
-	putchart('\n');
+	putchar('\n');
 
 	return (0);
 }
