@@ -1,10 +1,9 @@
-#include "main.h"
+#include "holberton.h"
 #include <stdio.h>
 /**
  * rev_string - This fuction print a string reverser
  *
  *@s: this is the pointer that point to a string
- * Return: Nothing
  */
 
 void rev_string(char *s)
